@@ -1,5 +1,5 @@
 
-## Michael "Griff" Griffith ##
+## "Griff" M. H. Griffith ##
 griff@gwg.dev
 
 ### Objective ###
