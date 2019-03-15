@@ -35,14 +35,14 @@ Unix Shell scripting (sh/bash/csh/tcsh/ksh), Perl, Working knowledge of: HTML, C
 Linux (SUSE, RHEL, Fedora, CentOS, Ubuntu, Debian), HP-UX (10/11iv1-3), Solaris (8,9,10), Windows OS (9x, NT4, 2000, XP, 2003, 2008, Vista, 7, 8/8.1) 
 
 
-**Tools/Utilites/Software:**
+**Tools/Utilities/Software:**
 GOLD, GOLDesp, AuRa, GV, vi, Microsoft Office Suite, CVS, RCS, Bugzilla, JIRA, Git, GitHub, Subversion, ftp, jvisualVM, Jenkins, CruiseControl, telnet, ssh, scp, bash and various other shells, Apache Web Server, JBoss, Apache Tomcat, Ant, Oracle, MySql, Microsoft Visual Basic, Citrix, VMWare Products, CAS, Safari Web Reports, Pentaho, Joomla, WordPress, GIMP, Photoshop, Inkscape, Blender, Rancher, AFS, VAS, Kerberos, PAM, Splunk, DUO Unix 2FA 
 
 
 ### Experience ###
 **Qualcomm, San Diego, Ca February 2016 – Present**
 **IT Engineer, Staff**
-Expanding my role within the Unix Configuration Manangement team, I added stewardship of the Unix Authentication, Authorization and Accounting (UAAA) service as well as became the go to hardware and aarch64 contact. My responsibilities and accomplishments include:
+Expanding my role within the Unix Configuration Management team, I added stewardship of the Unix Authentication, Authorization and Accounting (UAAA) service as well as became the go to hardware and aarch64 contact. My responsibilities and accomplishments include:
 
 - Integral role in implementing the PAM/DUO Unix 2FA solution
 - UAAA Lead SME
@@ -58,7 +58,7 @@ Expanding my role within the Unix Configuration Manangement team, I added stewar
 - Corp IT SUSE Expert
 - Continued previous roles and responsibilities from prior position
 
-**Qualcomm (Cydio Group), San Diego, Ca April 2014 – February**
+**Qualcomm (Cydio Group), San Diego, Ca April 2014 – February 2016**
 **IT Engineer, Sr.**
 
 Working as part of the Unix Configuration Management team, I am project lead on the Universal SUSE project and support engineering environments as part of the global imaging service. My responsibilities include:
