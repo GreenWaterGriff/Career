@@ -28,10 +28,10 @@ I am a fast, eager learner who excels at troubleshooting and solving complex iss
 - Red Hat JBoss Application Administration, 2010
 
 ### Skills ###
-**Languages**
+**Languages:**
 Unix Shell scripting (sh/bash/csh/tcsh/ksh), Perl, Working knowledge of: HTML, CSS, Java, Javascript, Visual Basic
 
-**Systems**
+**Systems:**
 Linux (SUSE, RHEL, Fedora, CentOS, Ubuntu, Debian), HP-UX (10/11iv1-3), Solaris (8,9,10), Windows OS (9x, NT4, 2000, XP, 2003, 2008, Vista, 7, 8/8.1) 
 
 
